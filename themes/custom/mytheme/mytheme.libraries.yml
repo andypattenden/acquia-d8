@@ -4,5 +4,6 @@ global-css:
     theme:
       css/elements.css: {}
       css/layout.css: {}
+      css/navigation.css: {}
       css/styles.css: {}
       css/print.css: { media: print }
